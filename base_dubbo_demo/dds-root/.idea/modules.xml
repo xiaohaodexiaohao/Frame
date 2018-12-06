@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dds-api/dds-api.iml" filepath="$PROJECT_DIR$/dds-api/dds-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dds-root.iml" filepath="$PROJECT_DIR$/dds-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dds-service/dds-service.iml" filepath="$PROJECT_DIR$/dds-service/dds-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dds-web/dds-web.iml" filepath="$PROJECT_DIR$/dds-web/dds-web.iml" />
+    </modules>
+  </component>
+</project>
